@@ -1,2 +1,2 @@
-# ig-desk-uat
-Official IG DESK repository for UAT environment
+# IG DESK (UAT)
+Official IG DESK repository for UAT environment.
